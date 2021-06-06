@@ -5,7 +5,7 @@
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS,NodeJS,Mongodb, Jamstack (JavaScript, APIs + Markup) .</P>
 <hr>
 
-<p align="center"> Connect with me </p >
+<h3 align="center">Connect with me</h3>
 
  [<img align="left" alt="LinkedIn" width="5%" src="Martz90-Circle-Linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi) 
  [<img align="right" alt="Medium" width="5%" src="Martz90-Circle-Gmail.ico" />](https://mail.google.com/mail/pradhumansinghanandcs@gmail.com)
@@ -25,7 +25,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 </p>
 
 <hr>
-<p align="center"> <strong>Technologies</strong> </p>
+<h3 align="center">Technologies</h3>
 <p align="center">
 <img align="center" alt="Visual Studio Code" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="HTML5" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
