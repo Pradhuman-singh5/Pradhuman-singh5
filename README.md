@@ -1,29 +1,38 @@
 ![Pradhuman Singh](https://github.com/Pradhuman-singh5/Pradhuman-singh5/blob/main/header.png?raw=true)
 
  <h1 align="center">Hello World!</h1>
-
-<p>My name is Kevin, and here are a few things I'm working on:</p>
-
-<ul>
-  <li>Happy Coding</li>
-  <li>Software Product Sprint</li>
-  <li>Google Maps</li>
-</ul>
+<P>
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS,NodeJS,Mongodb, Jamstack (JavaScript, APIs + Markup) .</P>
 <hr>
 
-### Connect with me
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/pradhuman-singh-a98074190/)
-[<img align="left" alt="Gmail" width="5%" top="0" src="Martz90-Circle-Gmail.ico" />](https://melaniesoek0120.medium.com)
+<p align="center"> Connect with me </p >
 
-<br />
+ [<img align="left" alt="LinkedIn" width="5%" src="Martz90-Circle-Linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi) 
+ [<img align="right" alt="Medium" width="5%" src="Martz90-Circle-Gmail.ico" />](https://mail.google.com/mail/pradhumansinghanandcs@gmail.com)
 
+
+
+
+
+<p align="center">I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
 <hr>
-
-<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
 
 <p align="center">
-  <img alt="Light" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhuman-singh5&theme=dark" width="45%">
+ 
+  <img alt="Light" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhuman-singh5&theme=dark" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github-readme-stats.vercel.app/api?username=Pradhuman-singh5&show_icons=true&theme=buefy" width="45%" height="400" >
+  <img alt="Dark" align="center" src="https://github-readme-stats.vercel.app/api?username=Pradhuman-singh5&show_icons=true&theme=buefy" width="45%" height="400" >
 </p>
 
+<hr>
+<p align="center"> <strong>Technologies</strong> </p>
+<p align="center">
+<img align="center" alt="Visual Studio Code" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="HTML5" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="center" alt="CSS3" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="center" alt="JavaScript" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="React" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="center" alt="Node.js" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="center" alt="MongoDB" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="center" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+ </p>
