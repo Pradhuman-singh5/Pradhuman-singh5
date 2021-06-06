@@ -13,7 +13,7 @@
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/pradhuman-singh-a98074190/)
-[<img align="left" alt="Gmail" width="80" src="" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="Gmail" width="5%" top="0" src="Martz90-Circle-Gmail.ico" />](https://melaniesoek0120.medium.com)
 
 <br />
 
